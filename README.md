@@ -8,6 +8,12 @@
 
 ---
 
+## Author
+
+Made with ❤️ by **Gaphop**
+
+---
+
 ## Features
 
 - Pure JavaScript, zero dependencies
