@@ -8,6 +8,8 @@
 
 ---
 
+[![npm version](https://img.shields.io/npm/v/lumia-detect.svg)](https://www.npmjs.com/package/lumia-detect)
+
 ## Author
 
 Made with ❤️ by **Gaphop**
